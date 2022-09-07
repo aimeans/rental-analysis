@@ -28,7 +28,7 @@ Check the to make sure everything has been installed properly
 ## Usage
 To run this in a Jupyter Lab notebook you will need to navigate in your terminal to the place where you have exported the files for this project.
 Next perform the following actions in the terminal:
-![Jupyterlab](readme_images/Jupyterlab.png)
+![Jupyterlab](images/Jupyterlab.png)
 
 This will open a Jupyter labs notebook in your default browser.
 
