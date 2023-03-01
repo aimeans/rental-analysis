@@ -1,4 +1,4 @@
-# Rental Analysis
+# rental analysis
 
 A jupyter notebook analysis of San Francisco rental properties with interactive visualizations. First we take curated census data and read it into a pandas dataframe. Next, we prepare it by cleaning and passing the data through various filters. Then we compose different plots and views to show sale price per square foot and gross rent trends in San Francisco from 2010-2016.
 ## Technologies
